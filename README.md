@@ -22,3 +22,7 @@ Use the methods in Math class to write a Java program calculate and display:
     *  The volume of the Sun in cubic miles.
     *  The ratio of the Sun to the volume of the Earth.
 
+6. Fuel consumption - A motor car use 8 liters of fuel per 100 kilometers of normal road and 15% more fuel on rough roads. 
+Write a Java program to calculate and display the distance the car can travel on a full tank of 40 liters of fuel on both normal and rough roads.
+
+
