@@ -20,7 +20,6 @@ public class difference {
 
         System.out.println("The difference between " + firstNumber + " and " + secondNumber + " is: " + (firstNumber - secondNumber));
 
-
     }
 
 }
