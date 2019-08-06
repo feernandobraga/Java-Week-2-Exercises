@@ -8,8 +8,8 @@ public class Volumes {
         double earthVolume;
         double sunVolume;
 
-        earthVolume = (4/3) * pi * Math.pow((earthDiameter/2),3);
-        sunVolume = (4/3) * pi * Math.pow((sunDiameter/2),3);
+        earthVolume = (4.0/3.0) * pi * Math.pow((earthDiameter/2.0),3);
+        sunVolume = (4.0/3.0) * pi * Math.pow((sunDiameter/2.0),3);
 
         System.out.printf("The volume of the Earth is: %.0f cubic miles\n", earthVolume);
         System.out.printf("The volume of the Sun is: %.0f cubic miles\n", sunVolume);
