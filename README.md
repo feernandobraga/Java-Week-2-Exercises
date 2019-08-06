@@ -29,7 +29,11 @@ Write a Java program to calculate and display the distance the car can travel on
         
         "I love java programming".substring(7, 11);
         
-8. 
+8. Write a program that compares two strings. 
+    *  A user will enter two Strings
+    *  Program will compares both strings
+    *  Program then display the result “the two given strings are equal”
+    *  Program will also compare the first character of each String.
 
 
 
